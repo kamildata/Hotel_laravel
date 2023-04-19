@@ -22,7 +22,7 @@ You need to have
 
           To run project `php artisan serve`
 
-## some screen
+## some screens
 
 ![Zrzut ekranu 2023-04-19 175559](https://user-images.githubusercontent.com/79749390/233132472-acf2a81a-32bf-41d8-be98-15f631b551cc.png)
 
